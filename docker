@@ -1,0 +1,1 @@
+docker run -d -p 4600:4100 -e UUID=8f611fcc-e3eb-4e6a-b4f8-19cf008f0f37 zizifn/node-vless:latest
